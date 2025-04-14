@@ -15,4 +15,5 @@ src/zh_TW-kawaii.po: src/zh-origin.po src/zh_TW-kawaii-patch.po
 
 clean:
 	rm src/zh_CN-kawaii.po
+	rm src/zh_TW-kawaii.po
 	rm -rf build
